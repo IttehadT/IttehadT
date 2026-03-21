@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ittehad Ahmed Tausif</h1>
+<h1 align="center">Hello!, I'm Ittehad Ahmed Tausif</h1>
 <p align="center">CSE Undergraduate | Python Developer | Web Developer | AI & Automation Enthusiast</p>
 
 ---
