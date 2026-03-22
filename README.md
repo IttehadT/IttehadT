@@ -1,94 +1,97 @@
-<div align="center">
+<!-- HEADER -->
+<h1 align="center">Ittehad Ahmed Tausif</h1>
+<p align="center">
+CSE Undergraduate @ BRAC University <br/>
+NLP & Cybersecurity Researcher
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ittehad%20Ahmed%20Tausif&fontSize=48&color=0:0d1117,50:003d2e,100:0d1117&fontColor=00ffe0&animation=fadeIn&desc=CSE%20%40%20BRAC%20University%20·%20NLP%20%2B%20Security%20Researcher&descSize=15&descAlignY=75&descColor=7ee8c8" width="100%"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/ittehadt">LinkedIn</a> •
+<a href="https://vercel.com/ittehad-ahmed-tausifs-projects">Portfolio</a> •
+<a href="mailto:ittehad.ahmed.tausif@g.bracu.ac.bd">Email</a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=2000&color=00FFE0&center=true&vCenter=true&width=600&height=30&lines=Full-Stack+Developer;NLP+%2B+Security+Researcher;Web+Scraping+%26+Data+Pipelines;Stanford+Code+in+Place+%7C+Section+Leader" alt="Typing SVG"/>
+---
 
-<br/>
+## About
 
-![](https://komarev.com/ghpvc/?username=IttehadT&color=00ffe0&style=flat-square&label=profile+views)
+- CSE student with strong academic performance (CGPA 3.91)
+- Research focus: **NLP + Cybersecurity**
+- Building scalable systems and data-driven applications
+- Interested in backend architecture, scraping systems, and ML integration
 
-</div>
+---
 
-<br/>
+## Experience
 
-```yaml
-# whoami
-name      : Ittehad Ahmed Tausif
-role      : CSE Undergraduate @ BRAC University
-awards    : VC's List ×4  |  Dean's List ×3  |  100% Scholarship  |  Duke of Edinburgh Bronze
-thesis    : NLP + Cybersecurity (Active Research)
-building  : CRAB University — multi-database, role-gated university platform
-mentoring : FYAT Student Mentor  |  Stanford Code in Place Section Leader (2025)
-```
+- **Student Mentor**, FYAT — BRAC University  
+- **Section Leader**, Stanford Code in Place (2025)  
+- **Web Dev Associate**, BRACU Duburi AUV  
 
-<br/>
+---
 
-## ` STACK `
+## Projects
 
-<div align="center">
+### CRAB University
+Multi-database, role-based university management system  
+- Modular architecture  
+- Secure access control  
+- Scalable backend design  
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ffe0)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ffe0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ffe0)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ffe0)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00ffe0)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ffe0)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ffe0)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=00ffe0)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=00ffe0)
-![HTML5](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ffe0)
-![CSS3](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ffe0)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ffe0)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-0d1117?style=flat-square&logo=python&logoColor=00ffe0)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00ffe0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ffe0)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=00ffe0)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=python&logoColor=00ffe0)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=00ffe0)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=00ffe0)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=00ffe0)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ffe0)
-![WordPress](https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=00ffe0)
-![Canva](https://img.shields.io/badge/Canva-0d1117?style=flat-square&logo=canva&logoColor=00ffe0)
-![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=flat-square&logo=adobeillustrator&logoColor=00ffe0)
+---
 
-</div>
+## Tech Stack
 
-<br/>
+**Languages**  
+Python · Java · C · JavaScript · TypeScript  
 
-## ` RESEARCH & FOCUS `
+**Frontend**  
+React · Next.js · Tailwind · Bootstrap  
 
-<div align="center">
+**Backend & Tools**  
+Flask · SQLAlchemy · BeautifulSoup · REST APIs  
 
-| | Area | Status |
-|--|------|--------|
-| 🧠 | NLP + Cybersecurity | `ACTIVE THESIS` |
-| 🕷️ | Web Scraping & Data Pipelines | `PRODUCTION` |
-| 🌐 | Full-Stack Enterprise Architecture | `PRODUCTION` |
-| 🤖 | Machine Learning & AI | `LEARNING` |
+**Database**  
+MySQL · PostgreSQL · Supabase  
 
-</div>
+**DevOps & Tools**  
+Git · GitHub Actions · Vercel · Render  
 
-<br/>
+---
 
-## ` STATS `
+## Research & Interests
 
-<div align="center">
+- NLP in Security Contexts  
+- Data Pipelines & Web Scraping  
+- System Design & Backend Engineering  
+- Applied Machine Learning  
 
-<img src="https://github-readme-stats.vercel.app/api?username=IttehadT&show_icons=true&count_private=true&bg_color=0d1117&border_color=1a3a2e&icon_color=00ffe0&title_color=00ffe0&text_color=7ee8c8&hide_border=false&rank_icon=github" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttehadT&layout=compact&bg_color=0d1117&border_color=1a3a2e&title_color=00ffe0&text_color=7ee8c8&hide_border=false" height="160"/>
+---
 
-<br/>
+## Achievements
 
-<img src="https://streak-stats.demolab.com?user=IttehadT&background=0d1117&border=1a3a2e&stroke=1a3a2e&ring=00ffe0&fire=00ffe0&currStreakNum=00ffe0&sideNums=7ee8c8&currStreakLabel=7ee8c8&sideLabels=7ee8c8&dates=4a7a6a" height="160"/>
+- VC’s List ×4  
+- Dean’s List ×3  
+- 100% Scholarship — BRAC University  
+- Duke of Edinburgh Bronze Award  
 
-<br/>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IttehadT/IttehadT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IttehadT/IttehadT/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/IttehadT/IttehadT/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=IttehadT&show_icons=true&hide_border=true&title_color=222&text_color=444&icon_color=555" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttehadT&layout=compact&hide_border=true&title_color=222&text_color=444" height="150"/>
+</p>
+
+---
+
+## Contact
+
+- Email: ittehad.ahmed.tausif@g.bracu.ac.bd  
+- LinkedIn: linkedin.com/in/ittehadt  
+
+---  <img alt="contribution snake" src="https://raw.githubusercontent.com/IttehadT/IttehadT/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
