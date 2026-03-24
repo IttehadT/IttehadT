@@ -61,9 +61,3 @@ GitHub Analytics
   <img src="https://streak-stats.demolab.com?user=IttehadT&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=0f172a" height="150"/>
 </p>---
 
-Achievements
-
-- VC’s List ×4
-- Dean’s List ×3
-- 100% Scholarship — BRAC University
-- Duke of Edinburgh Bronze Award
