@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ittehadt">LinkedIn</a> •
   <a href="https://vercel.com/ittehad-ahmed-tausifs-projects">Portfolio</a> •
   <a href="mailto:ittehad.ahmed.tausif@g.bracu.ac.bd">Email</a>
-</p>---
+</p>
 
 About
 
