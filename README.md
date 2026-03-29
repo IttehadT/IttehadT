@@ -59,5 +59,5 @@ GitHub Analytics
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IttehadT&layout=compact&hide_border=true&title_color=0f172a&text_color=475569" height="150"/>
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=IttehadT&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=0f172a" height="150"/>
-</p>---
+</p>
 
