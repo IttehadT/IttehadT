@@ -5,7 +5,7 @@
   NLP • Cybersecurity • Backend Systems
 </p><p align="center">
   <a href="https://www.linkedin.com/in/ittehadt">LinkedIn</a> •
-  <a href="https://vercel.com/ittehad-ahmed-tausifs-projects">Portfolio</a> •
+  <a href="https://itausif.vercel.app/test/">Portfolio</a> •
   <a href="mailto:ittehad.ahmed.tausif@g.bracu.ac.bd">Email</a>
 </p>
 
