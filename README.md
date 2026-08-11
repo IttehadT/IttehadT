@@ -4,8 +4,8 @@
   <b>CSE Undergraduate @ BRAC University</b><br/>
   NLP • Cybersecurity • Backend Systems
 </p><p align="center">
-  <a href="https://www.linkedin.com/in/ittehadt">LinkedIn</a> •
-  <a href="https://itausif.vercel.app/test/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ittehadahmedtausif">LinkedIn</a> •
+  <a href="#">Portfolio</a> •
   <a href="mailto:ittehad.ahmed.tausif@g.bracu.ac.bd">Email</a>
 </p>
 
