@@ -21,20 +21,8 @@ About
 Experience
 
 - Student Mentor, FYAT — BRAC University
-- Section Leader, Stanford Code in Place (2025)
+- Section Leader, Stanford Code in Place
 - Web Dev Associate, BRACU Duburi AUV
-
----
-
-Projects
-
-CRAB University
-
-Role-based university management system with modular architecture
-
-- Multi-database integration
-- Secure authentication & authorization
-- Scalable backend design
 
 ---
 
